@@ -1,0 +1,25 @@
+object oreinted programming - oop
+
+programming paradiam - programming style - class and Object
+
+procedural paradiam  - functions
+
+
+---------------------------------------------
+
+banking system using procedural paradiam
+
+function createAccount - username - userid - userdetails - initail Balance 
+
+function termainateAccount 
+
+function deposit
+
+function withdraw showBalance - showAccountStatement - 
+
+
+class BankAccount :
+    this.name = n
+
+
+
